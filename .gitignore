@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Secret Keys
+**/secrets_tokens.py
+*.pem
+
+#Pycharm
+**/.idea
+**/__pycache__/
+**/photos
+**/videos
+**/venv
